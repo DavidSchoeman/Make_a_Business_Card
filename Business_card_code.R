@@ -14,7 +14,7 @@
 
   v <- qr_vcard(
     given = "First_Name",
-    family = "Sirname",
+    family = "Surname",
     address = c(`street_nr` = "Group_name, Uni_name", 
                 `city` = "xx Uni_road, City", 
                 `region` = "State", 

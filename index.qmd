@@ -1,5 +1,5 @@
 ---
-title: "Title Fist_Name Sirname"
+title: "Title Fist_Name Surname"
 subtitle: "Affiliation_here"
 format: html
 editor: visual
