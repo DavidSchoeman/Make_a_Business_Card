@@ -1,0 +1,12 @@
+---
+title: "Title Fist_Name Sirname"
+subtitle: "Affiliation_here"
+format: html
+editor: visual
+title-block-banner: true
+css: styles.css
+---
+
+![](Business_card.png){fig-align="center" width="300"}
+
+![](uni_logo.png){fig-align="center" width="90"}
